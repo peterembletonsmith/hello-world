@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Some shit about me.
+
+Some more shit.
+
+Even more shit.
